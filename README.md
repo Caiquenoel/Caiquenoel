@@ -1,13 +1,13 @@
 <div align="center">
     <h1>Olá, estranho(a)! ✨</h1>
-    <p>Entusiasta de Ciência de Dados | Analisando, visualizando e tentando prever o futuro.</p>
+    <p>Um apaixonado por Ciência de Dados | Analisando, visualizando e tentando construir meu imperio.</p>
 </div>
 
 ---
 
 ### 🔍 Meu laboratório de aprendizado
 
-Estou atualmente embarcando em uma jornada empolgante para dominar a **Ciência de Dados**. Meu foco agora é construir uma base sólida, aprendendo a transformar dados brutos em *insights* acionáveis.
+Estou mergulhando no aprendizado de  **Ciência de Dados**. Meu foco agora é construir uma base sólida, aprendendo a transformar dados brutos em *insights* acionáveis.
 
 - 📈 **Foco atual:** Estou mergulhando fundo em **Python**.
 - 🎯 **Objetivo:** Transformar curiosidade em conhecimento e conhecimento em modelos robustos de *Machine Learning*!
