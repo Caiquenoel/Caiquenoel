@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Olá, estranho(a)! ✨</h1>
+    <h1>Olá, Mundo! ✨</h1>
     <p>Um apaixonado por Ciência de Dados | Analisando, visualizando e tentando construir meu imperio.</p>
 </div>
 
