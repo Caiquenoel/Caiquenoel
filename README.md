@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+    <h1>Olá, estranho(a)! ✨</h1>
+    <p>Entusiasta de Ciência de Dados | Analisando, visualizando e tentando prever o futuro.</p>
+</div>
 
-<!--
-**Caiquenoel/Caiquenoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔍 Meu laboratório de aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou atualmente embarcando em uma jornada empolgante para dominar a **Ciência de Dados**. Meu foco agora é construir uma base sólida, aprendendo a transformar dados brutos em *insights* acionáveis.
+
+- 📈 **Foco atual:** Estou mergulhando fundo em **Python**.
+- 🎯 **Objetivo:** Transformar curiosidade em conhecimento e conhecimento em modelos robustos de *Machine Learning*!
+
+---
+
+### 🧠 Meu kit de ferramentas analíticas (*The Tech Stack*)
+
+Abaixo estão as principais tecnologias que estou usando (ou aprendendo intensamente) no meu *pipeline* de Ciência de Dados.
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</div>
